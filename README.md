@@ -1,6 +1,6 @@
 # Asuka-Bot
 A bot to wish all your close friends a happy Thursday! <br>
-This bot is based on the fictional character from the anime Series "Evangelion".
+This bot is based on the fictional character from the anime series "Evangelion".
 
 ## ⚠️ WORK IN PROGRESS ⚠️
 This project is still under development.
