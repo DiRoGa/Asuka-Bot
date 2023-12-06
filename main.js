@@ -17,9 +17,6 @@ const { GroupChat } = require('whatsapp-web.js/src/structures');
 
 const client = new Client({
     authStrategy: new LocalAuth(),
-    puppeteer: {
-        executablePath: 'C://Program Files (x86)//Google//Chrome//Application//chrome.exe',
-    }
 })
 
 let block = false;
